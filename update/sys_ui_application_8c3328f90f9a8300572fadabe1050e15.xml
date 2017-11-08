@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Stories</name>
+        <order/>
+        <roles>x_145082_stories_t.story_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-11-08 11:38:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c3328f90f9a8300572fadabe1050e15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Stories</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Stories Time Counter" source="x_145082_stories_t">896264b10f5a8300572fadabe1050ebb</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Stories Time Counter">896264b10f5a8300572fadabe1050ebb</sys_scope>
+        <sys_update_name>sys_ui_application_8c3328f90f9a8300572fadabe1050e15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-11-08 11:38:13</sys_updated_on>
+    </sys_ui_application>
+</record_update>
